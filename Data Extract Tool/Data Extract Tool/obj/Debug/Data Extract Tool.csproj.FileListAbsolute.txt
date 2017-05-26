@@ -1,0 +1,6 @@
+c:\users\chris.williams\documents\visual studio 2017\Projects\Data Extract Tool\Data Extract Tool\bin\Debug\Data Extract Tool.exe.config
+c:\users\chris.williams\documents\visual studio 2017\Projects\Data Extract Tool\Data Extract Tool\bin\Debug\Data Extract Tool.exe
+c:\users\chris.williams\documents\visual studio 2017\Projects\Data Extract Tool\Data Extract Tool\bin\Debug\Data Extract Tool.pdb
+c:\users\chris.williams\documents\visual studio 2017\Projects\Data Extract Tool\Data Extract Tool\obj\Debug\Data Extract Tool.csprojResolveAssemblyReference.cache
+c:\users\chris.williams\documents\visual studio 2017\Projects\Data Extract Tool\Data Extract Tool\obj\Debug\Data Extract Tool.exe
+c:\users\chris.williams\documents\visual studio 2017\Projects\Data Extract Tool\Data Extract Tool\obj\Debug\Data Extract Tool.pdb
